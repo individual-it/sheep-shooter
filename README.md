@@ -9,21 +9,27 @@ Strangely it never got past version 0.4c. The version number suggests that we ha
 
 ## Screenshots
 Start screen
+
 ![Start screen](https://raw.githubusercontent.com/individual-it/sheep-shooter/master/start.png)
 
 Got you!
+
 ![kill](https://raw.githubusercontent.com/individual-it/sheep-shooter/master/hit.png)
 
 Head-shot!
+
 ![headshot](https://raw.githubusercontent.com/individual-it/sheep-shooter/master/headshot.png)
+
 ## Requirements
 Just run `SHEEP.EXE` in [DOSBOX](www.dosbox.com)
 
 ## How to play
 move the cross with
+```
 7 8 9
 4 5 6
 1 2 3
+```
 
 shoot with "space"
 
