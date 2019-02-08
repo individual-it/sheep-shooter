@@ -21,7 +21,7 @@ Head-shot!
 ![headshot](https://raw.githubusercontent.com/individual-it/sheep-shooter/master/headshot.png)
 
 ## Requirements
-Just run `SHEEP.EXE` in [DOSBOX](www.dosbox.com)
+Just run `SHEEP.EXE` in [DOSBOX](http://www.dosbox.com)
 
 ## How to play
 move the cross with
